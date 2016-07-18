@@ -17,10 +17,7 @@ Here is the proportion of population aged over 65.
 
 Highest reproduction rate years:
 In term of the mode, the newborns was amongst the largest age group until 1950. The mode then gets higher and higher since 1955.
-![Japanese population structure](group_density.png)
-
-Cumulative Probability Distribution of population for each year
-![Cumulative Probability Distribution of population for each year](cum_prop.png)
+![Japanese population structure](age_structure.png)
 
 This is the plot of cumulative proportion of population against the age it is clear that the entire curve continues to shift downward indicating that the population is aging. The trend start to be noticeable from the plot since 1965.
 ![The Cumulative Density Function of Japan Population](cum_prop.png)
